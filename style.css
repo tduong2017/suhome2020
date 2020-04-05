@@ -14,7 +14,7 @@ body {
           rgba(0, 0, 0, 0.5), 
           rgba(0, 0, 0, 0.5)
         ),
-		url('img/girl.gif');
+		url('img/bg.png');
 	background-repeat: no-repeat;
     background-size: cover;
     min-height: 768px;	
