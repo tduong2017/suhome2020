@@ -14,7 +14,7 @@ body {
           rgba(0, 0, 0, 0.5), 
           rgba(0, 0, 0, 0.5)
         ),
-		url('img/bg.png');
+		url('img/night.png');
 	background-repeat: repeat;
     background-size: cover;
     min-height: 768px;	
